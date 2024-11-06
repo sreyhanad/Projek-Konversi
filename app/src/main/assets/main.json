@@ -1,0 +1,24 @@
+{
+  "DATA_NEWS": [
+    {
+      "title_news": "Resep Nasi Goreng",
+      "link_news": "file:///android_asset/1.html",
+      "image_link": "https://www.blibli.com/friends-backend/wp-content/uploads/2023/04/B300026-Cover-resep-nasi-goreng-scaled.jpg"
+    },
+    {
+      "title_news": "Resep Soto Ayam",
+      "link_news": "file:///android_asset/2.html",
+      "image_link": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/08/03063114/Ini-Resep-Bumbu-Soto-Ayam-Tanpa-Santan-yang-Gurih-dan-Lezat-.jpg.webp"
+    },
+    {
+      "title_news": "Resep Batagor",
+      "link_news": "file:///android_asset/3.html",
+      "image_link": "https://www.kba.one/files/images/20231104-screenshot-20231104-123946-instagram.jpg"
+    },
+    {
+      "title_news": "Resep Rendang Ayam",
+      "link_news": "file:///android_asset/4.html",
+      "image_link": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2018/01/Resep-Rendang-Ayam.jpg?fit=1280%2C959&ssl=1"
+    }
+  ]
+}
